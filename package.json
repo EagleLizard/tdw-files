@@ -1,0 +1,17 @@
+{
+  "name": "tdw-files",
+  "version": "1.0.0",
+  "description": "File server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eaglelizard",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9"
+  }
+}
